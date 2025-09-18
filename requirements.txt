@@ -1,5 +1,5 @@
-fastapi==0.115.5
-uvicorn==0.32.0
-openai==1.107.3
-qdrant-client==1.15.1
-pydantic==2.11.9
+fastapi
+uvicorn
+python-dotenv
+openai
+qdrant-client
